@@ -1,0 +1,11 @@
+{
+    "code":  69,
+    "name":  "3.2",
+    "what":  "Приложение теперь ставится и работает на приставках с Android 9.\n\n• Фильмы, которые сайт показывает чужим плеером, снова открываются — и теперь с выбором озвучки и качества, а не одной строкой «авто»\n• На старых приставках кино падало при запуске — починено",
+    "apk":  "https://github.com/gamahacka/filmmov/releases/latest/download/filmmov.apk",
+    "sha256":  "540d88c30f94ccbe8708b4c8ae05c56198ae507b1acb89a914c01e45e37dc16b",
+    "hosts":  {
+                  "kinovod":  "https://kinovod.pro",
+                  "gemovie":  "https://ge.movie"
+              }
+}
