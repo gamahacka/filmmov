@@ -8,5 +8,5 @@
 
 Обновления приходят сами: приложение предложит обновиться.
 
-- Новости и вопросы: [Telegram-канал film.mov](https://t.me/filmmov_app)
+- Новости и вопросы: [Telegram-канал film.mov](https://t.me/+RIHPFtphW000Yzcy)
 - Тема на 4PDA: [film.mov](https://4pda.to/forum/index.php?showtopic=1125720)
