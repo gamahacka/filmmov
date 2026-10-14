@@ -1,9 +1,9 @@
 {
-    "code":  141,
+    "code":  142,
     "name":  "3.9",
-    "what":  "На телевизоре в «Кадре» появился масштаб: удержите кнопку «Кадр» в плеере, под формами кадра — строки «Масштаб 110…150 %». Так убираются чёрные полосы, вшитые в сам фильм, например у широких фильмов 2.40:1. Масштаб запоминается. На NVIDIA Shield при искажении низа кадра переключите AI-апскейлинг приставки на Basic (удержите шестерёнку на пульте).",
-    "apk":  "https://github.com/gamahacka/filmmov/releases/download/v3.9-141/filmmov.apk",
-    "sha256":  "4b98e212e1fb2358ffdf42a1ff353ab1c4d17b0625691fd95a714db41c2a607e",
+    "what":  "Оптимизация.",
+    "apk":  "https://github.com/gamahacka/filmmov/releases/download/v3.9-142/filmmov.apk",
+    "sha256":  "9f970e1955993bf45d89ef61e2c9fdecf31986525b8d8edad084c43168039a04",
     "hosts":  {
                   "kinovod":  "https://kinovod.pro",
                   "gemovie":  "https://ge.movie",
