@@ -10,3 +10,7 @@
 
 - Новости и вопросы: [Telegram-канал film.mov](https://t.me/+RIHPFtphW000Yzcy)
 - Тема на 4PDA: [film.mov](https://4pda.to/forum/index.php?showtopic=1125720)
+
+## Можно ли выложить film.mov у себя
+
+Можно, если файл не изменён и рядом есть ссылка на Telegram-канал [t.me/filmmov_app](https://t.me/filmmov_app). Изменённые сборки (моды, пересборки, файлы с другой подписью) выкладывать нельзя.
