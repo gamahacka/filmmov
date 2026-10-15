@@ -1,14 +1,22 @@
 {
-    "code":  142,
-    "name":  "3.9",
-    "what":  "Оптимизация.",
-    "apk":  "https://github.com/gamahacka/filmmov/releases/download/v3.9-142/filmmov.apk",
-    "sha256":  "9f970e1955993bf45d89ef61e2c9fdecf31986525b8d8edad084c43168039a04",
-    "hosts":  {
-                  "kinovod":  "https://kinovod.pro",
-                  "gemovie":  "https://ge.movie",
-                  "rezka":  "https://rezka.ag",
-                  "filmix":  "http://filmixapp.cyou/api/v2",
-                  "jacred":  "https://jr.maxvol.pro https://jac-red.ru"
-              }
+  "code": 143,
+  "name": "3.9",
+  "what": "Торренты: в настройках появился выключатель «Раздавать при просмотре». Выключен — приложение ничего не отдаёт другим, в плеере это отмечено красным «не раздаём». Без раздачи слабые раздачи могут стартовать медленнее.\nКачество: выбранная ступень играет на любом экране и любой сети, приложение её больше не снижает.\nКиновод: если сайт отдаёт фильм в низком качестве, приложение берёт второй плеер страницы — у «Бабадука» 1080p вместо 360p.\n«Продолжить»: когда копия фильма сменилась на копию с другой частотой кадров, продолжение попадает на ту же сцену.\nПлеер на телевизоре понимает мышь: щелчок по кадру показывает и прячет панель.\nОбновления: файл обновлений подписан, у приложения появились запасные адреса обновлений на случай, если GitHub закрыт.\nЯзык: при первой установке и в настройках («Язык / Language») можно выбрать английский. У тех, кто уже пользуется, ничего не меняется.",
+  "apk": "https://github.com/gamahacka/filmmov/releases/download/v3.9-143/filmmov.apk",
+  "sha256": "a85b8cf6b43aac203917b44982561a8eb8f6f46337da43e592b701345bcf0145",
+  "hosts": {
+    "kinovod": "https://kinovod.pro",
+    "gemovie": "https://ge.movie",
+    "rezka": "https://rezka.ag",
+    "filmix": "http://filmixapp.cyou/api/v2",
+    "jacred": "https://jr.maxvol.pro https://jac-red.ru"
+  },
+  "mirrors": [
+    "https://raw.githubusercontent.com/gamahacka/filmmov/main/latest.json",
+    "https://film-mov.pages.dev/latest.json",
+    "https://t.me/s/filmmov_app/21"
+  ],
+  "at": 1792091814,
+  "signed": "{\"code\":143,\"name\":\"3.9\",\"what\":\"Торренты: в настройках появился выключатель «Раздавать при просмотре». Выключен — приложение ничего не отдаёт другим, в плеере это отмечено красным «не раздаём». Без раздачи слабые раздачи могут стартовать медленнее.\\nКачество: выбранная ступень играет на любом экране и любой сети, приложение её больше не снижает.\\nКиновод: если сайт отдаёт фильм в низком качестве, приложение берёт второй плеер страницы — у «Бабадука» 1080p вместо 360p.\\n«Продолжить»: когда копия фильма сменилась на копию с другой частотой кадров, продолжение попадает на ту же сцену.\\nПлеер на телевизоре понимает мышь: щелчок по кадру показывает и прячет панель.\\nОбновления: файл обновлений подписан, у приложения появились запасные адреса обновлений на случай, если GitHub закрыт.\\nЯзык: при первой установке и в настройках («Язык / Language») можно выбрать английский. У тех, кто уже пользуется, ничего не меняется.\",\"apk\":\"https://github.com/gamahacka/filmmov/releases/download/v3.9-143/filmmov.apk\",\"sha256\":\"a85b8cf6b43aac203917b44982561a8eb8f6f46337da43e592b701345bcf0145\",\"hosts\":{\"kinovod\":\"https://kinovod.pro\",\"gemovie\":\"https://ge.movie\",\"rezka\":\"https://rezka.ag\",\"filmix\":\"http://filmixapp.cyou/api/v2\",\"jacred\":\"https://jr.maxvol.pro https://jac-red.ru\"},\"mirrors\":[\"https://raw.githubusercontent.com/gamahacka/filmmov/main/latest.json\",\"https://film-mov.pages.dev/latest.json\",\"https://t.me/s/filmmov_app/21\"],\"at\":1792091814}",
+  "sig": "MEYCIQDhr28b8nweYowguMAwemL/8p272AZDEngpSHnm9zPOxgIhAMbRaUFMm+wbWRuKv9gdPpGGc76FXMtBGzyf7D9ze8X8"
 }
