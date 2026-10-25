@@ -1,10 +1,10 @@
 {
-  "code": 156,
+  "code": 157,
   "name": "3.9",
-  "what": "Торренты: в сериалах, где все сезоны лежат одной раздачей, включается серия нужного сезона, а не первого; раздача только первого сезона больше не предлагается в остальных.\nHDrezka: когда сайт не дал видео, окно выбора называет причину и подсказывает, что делать, а не просит сменить озвучку.",
-  "what_en": "Torrents: in shows where all seasons come as one release, the episode from the right season plays, not the first season's; a release with only season 1 is no longer offered for the other seasons.\nHDrezka: when the site gives no video, the choice window says why and what to do instead of asking you to pick another voice track.",
-  "apk": "https://github.com/gamahacka/filmmov/releases/download/v3.9-156/filmmov.apk",
-  "sha256": "5e774b8118d6e402abf5099b845bf0d35feec94f164a51dd92bcf000af9bec08",
+  "what": "Торренты: у сериалов, которые ещё выходят, в последнем сезоне видны все вышедшие серии, даже если справочник фильмов знает не все - число серий теперь берётся и из раздач.\nТорренты: раздачи поздних сезонов, у которых номер сезона записан по-своему (например, «[14х01-12 из 16]»), снова стоят в своём сезоне - в 3.9 (156) часть из них пропадала.",
+  "what_en": "Torrents: for shows that are still airing, the latest season lists every released episode even when the movie database doesn't know them all yet - the episode count now also comes from the releases.\nTorrents: releases of later seasons that write the season number their own way are back in their season - some of them went missing in 3.9 (156).",
+  "apk": "https://github.com/gamahacka/filmmov/releases/download/v3.9-157/filmmov.apk",
+  "sha256": "cc9708ce5c38421957db06a4227bd8c6552f1a824c98f82c1172123588e3f613",
   "hosts": {
     "kinovod": "https://kinovod.pro",
     "gemovie": "https://ge.movie",
@@ -17,7 +17,7 @@
     "https://film-mov.pages.dev/latest.json",
     "https://t.me/s/filmmov_app/21"
   ],
-  "at": 1792960668,
-  "signed": "{\"code\":156,\"name\":\"3.9\",\"what\":\"Торренты: в сериалах, где все сезоны лежат одной раздачей, включается серия нужного сезона, а не первого; раздача только первого сезона больше не предлагается в остальных.\\nHDrezka: когда сайт не дал видео, окно выбора называет причину и подсказывает, что делать, а не просит сменить озвучку.\",\"what_en\":\"Torrents: in shows where all seasons come as one release, the episode from the right season plays, not the first season's; a release with only season 1 is no longer offered for the other seasons.\\nHDrezka: when the site gives no video, the choice window says why and what to do instead of asking you to pick another voice track.\",\"apk\":\"https://github.com/gamahacka/filmmov/releases/download/v3.9-156/filmmov.apk\",\"sha256\":\"5e774b8118d6e402abf5099b845bf0d35feec94f164a51dd92bcf000af9bec08\",\"hosts\":{\"kinovod\":\"https://kinovod.pro\",\"gemovie\":\"https://ge.movie\",\"rezka\":\"https://rezka.ag\",\"filmix\":\"http://filmixapp.cyou/api/v2\",\"jacred\":\"https://jr.maxvol.pro https://jac-red.ru\"},\"mirrors\":[\"https://raw.githubusercontent.com/gamahacka/filmmov/main/latest.json\",\"https://film-mov.pages.dev/latest.json\",\"https://t.me/s/filmmov_app/21\"],\"at\":1792960668}",
-  "sig": "MEUCIEguxk4huKt7TRsZ9cgPcNQXVSzMNTeGKg9d6V9ZwtO2AiEA+nmaGKkdYA0gQdW7p7s76Ogy/KZdE3azxc1rLkY45Fk="
+  "at": 1792969474,
+  "signed": "{\"code\":157,\"name\":\"3.9\",\"what\":\"Торренты: у сериалов, которые ещё выходят, в последнем сезоне видны все вышедшие серии, даже если справочник фильмов знает не все - число серий теперь берётся и из раздач.\\nТорренты: раздачи поздних сезонов, у которых номер сезона записан по-своему (например, «[14х01-12 из 16]»), снова стоят в своём сезоне - в 3.9 (156) часть из них пропадала.\",\"what_en\":\"Torrents: for shows that are still airing, the latest season lists every released episode even when the movie database doesn't know them all yet - the episode count now also comes from the releases.\\nTorrents: releases of later seasons that write the season number their own way are back in their season - some of them went missing in 3.9 (156).\",\"apk\":\"https://github.com/gamahacka/filmmov/releases/download/v3.9-157/filmmov.apk\",\"sha256\":\"cc9708ce5c38421957db06a4227bd8c6552f1a824c98f82c1172123588e3f613\",\"hosts\":{\"kinovod\":\"https://kinovod.pro\",\"gemovie\":\"https://ge.movie\",\"rezka\":\"https://rezka.ag\",\"filmix\":\"http://filmixapp.cyou/api/v2\",\"jacred\":\"https://jr.maxvol.pro https://jac-red.ru\"},\"mirrors\":[\"https://raw.githubusercontent.com/gamahacka/filmmov/main/latest.json\",\"https://film-mov.pages.dev/latest.json\",\"https://t.me/s/filmmov_app/21\"],\"at\":1792969474}",
+  "sig": "MEYCIQCv6Gbe7E2gN3DKUuBf8yCUYG4iNjEm0+3a0OUsFMTguwIhAK/OcQD2s7wbHgj+goI/aYXZUUoCDEE4eVyFu457ro9U"
 }
