@@ -41,6 +41,6 @@ Allowed if the file is unmodified and a link to the Telegram channel [t.me/filmm
 
 - Новости и вопросы: [Telegram-канал film.mov](https://t.me/+RIHPFtphW000Yzcy)
 - Тема на 4PDA: [film.mov](https://4pda.to/forum/index.php?showtopic=1125720)
-- Поддержать проект: [Ko-fi](https://ko-fi.com/gamahacka) - картой или через PayPal, либо USDT в сети TON - адрес в приложении: настройки → «Приложение» → «Поддержать проект».
+- Поддержать проект: [Tribute](https://web.tribute.tg/d/SVL) - картой любой страны, [Ko-fi](https://ko-fi.com/gamahacka) - картой или через PayPal, либо USDT в сети TON - адрес в приложении: настройки → «Приложение» → «Поддержать проект».
 
 Выложить film.mov у себя можно, если файл не изменён и рядом есть ссылка на Telegram-канал [t.me/filmmov_app](https://t.me/filmmov_app). Изменённые сборки (моды, пересборки, файлы с другой подписью) выкладывать нельзя.
