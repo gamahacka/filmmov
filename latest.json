@@ -1,10 +1,10 @@
 {
-  "code": 161,
+  "code": 162,
   "name": "3.9",
-  "what": "Карточка фильма: под кнопками - ряд «Также на» с сайтами, где есть этот же фильм; нажмите на сайт, чтобы открыть фильм там.\nТелевизор: значки меню слева больше не прыгают вверх-вниз, когда меню раскрывается и сворачивается.\nТелевизор: «Продолжить» больше не дёргается вверх, когда выбираешь фильм.\nТелефон: список в настройках доходит до низа экрана - без тёмной полосы внизу.\nТорренты: у DVD в списке серий виден размер и число частей каждого раздела - понятно, с какого начинать.",
-  "what_en": "Movie page: below the buttons, an \"Also on\" row lists other sites that have the same movie - press one to open the movie there.\nTV: the icons in the left menu no longer jump up and down when the menu opens and closes.\nTV: \"Continue\" no longer jerks upward when you pick a movie.\nPhone: the Settings list now reaches the bottom of the screen - no dark strip at the bottom.\nTorrents: DVD titles in the episode list show their size and number of parts - easy to see which one to start.",
-  "apk": "https://github.com/gamahacka/filmmov/releases/download/v3.9-161/filmmov.apk",
-  "sha256": "894a4eeb2381bc1844801293c48d0d0eb929076a3aaddac33050ff7e938cf934",
+  "what": "Плеер: после сворачивания приложения сериал больше не становится «фильмом» - та же серия с того же места, с кнопками серий и выбранным качеством.\nКарточка фильма: переходы по «Также на» больше не копятся - чтобы вернуться, хватит двух нажатий «назад».",
+  "what_en": "Player: a TV show no longer turns into a \"movie\" after you minimize the app - you come back to the same episode at the same spot, with the episode buttons and your chosen quality.\nMovie page: jumps through \"Also on\" no longer pile up - two \"Back\" presses always take you back.",
+  "apk": "https://github.com/gamahacka/filmmov/releases/download/v3.9-162/filmmov.apk",
+  "sha256": "c53673e11d049ef565e9450b1ea7500ead3169f6358bc7467180aad239b0d97b",
   "hosts": {
     "kinovod": "https://kinovod.pro",
     "gemovie": "https://ge.movie",
@@ -17,7 +17,7 @@
     "https://film-mov.pages.dev/latest.json",
     "https://t.me/s/filmmov_app/21"
   ],
-  "at": 1793729164,
-  "signed": "{\"code\":161,\"name\":\"3.9\",\"what\":\"Карточка фильма: под кнопками - ряд «Также на» с сайтами, где есть этот же фильм; нажмите на сайт, чтобы открыть фильм там.\\nТелевизор: значки меню слева больше не прыгают вверх-вниз, когда меню раскрывается и сворачивается.\\nТелевизор: «Продолжить» больше не дёргается вверх, когда выбираешь фильм.\\nТелефон: список в настройках доходит до низа экрана - без тёмной полосы внизу.\\nТорренты: у DVD в списке серий виден размер и число частей каждого раздела - понятно, с какого начинать.\",\"what_en\":\"Movie page: below the buttons, an \\\"Also on\\\" row lists other sites that have the same movie - press one to open the movie there.\\nTV: the icons in the left menu no longer jump up and down when the menu opens and closes.\\nTV: \\\"Continue\\\" no longer jerks upward when you pick a movie.\\nPhone: the Settings list now reaches the bottom of the screen - no dark strip at the bottom.\\nTorrents: DVD titles in the episode list show their size and number of parts - easy to see which one to start.\",\"apk\":\"https://github.com/gamahacka/filmmov/releases/download/v3.9-161/filmmov.apk\",\"sha256\":\"894a4eeb2381bc1844801293c48d0d0eb929076a3aaddac33050ff7e938cf934\",\"hosts\":{\"kinovod\":\"https://kinovod.pro\",\"gemovie\":\"https://ge.movie\",\"rezka\":\"https://rezka.ag\",\"filmix\":\"http://filmixapp.cyou/api/v2\",\"jacred\":\"https://jr.maxvol.pro https://jac-red.ru\"},\"mirrors\":[\"https://raw.githubusercontent.com/gamahacka/filmmov/main/latest.json\",\"https://film-mov.pages.dev/latest.json\",\"https://t.me/s/filmmov_app/21\"],\"at\":1793729164}",
-  "sig": "MEQCIBbPhT/6kCRLFEqFFXOBXVzUhAP2gs1yPE2ztmfmargqAiBq3QR1/xFHcmtsQbz7aTklFGIViKrL+jsS49PlDOAqeQ=="
+  "at": 1793737466,
+  "signed": "{\"code\":162,\"name\":\"3.9\",\"what\":\"Плеер: после сворачивания приложения сериал больше не становится «фильмом» - та же серия с того же места, с кнопками серий и выбранным качеством.\\nКарточка фильма: переходы по «Также на» больше не копятся - чтобы вернуться, хватит двух нажатий «назад».\",\"what_en\":\"Player: a TV show no longer turns into a \\\"movie\\\" after you minimize the app - you come back to the same episode at the same spot, with the episode buttons and your chosen quality.\\nMovie page: jumps through \\\"Also on\\\" no longer pile up - two \\\"Back\\\" presses always take you back.\",\"apk\":\"https://github.com/gamahacka/filmmov/releases/download/v3.9-162/filmmov.apk\",\"sha256\":\"c53673e11d049ef565e9450b1ea7500ead3169f6358bc7467180aad239b0d97b\",\"hosts\":{\"kinovod\":\"https://kinovod.pro\",\"gemovie\":\"https://ge.movie\",\"rezka\":\"https://rezka.ag\",\"filmix\":\"http://filmixapp.cyou/api/v2\",\"jacred\":\"https://jr.maxvol.pro https://jac-red.ru\"},\"mirrors\":[\"https://raw.githubusercontent.com/gamahacka/filmmov/main/latest.json\",\"https://film-mov.pages.dev/latest.json\",\"https://t.me/s/filmmov_app/21\"],\"at\":1793737466}",
+  "sig": "MEQCIGjseBwJz5lmM19KF3oBhojW4OlyrUMGurlPifFj/C1CAiAFBCpZvhJwF9Zai+TbtpytzF7A40+jWKWL2bU7oDMejw=="
 }
