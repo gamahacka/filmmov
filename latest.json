@@ -1,10 +1,10 @@
 {
-  "code": 164,
+  "code": 165,
   "name": "3.9",
-  "what": "Окошко «картинка в картинке»: кнопки «назад на 10 секунд», пауза и «вперёд на 10 секунд» - на телефоне и телевизоре.\n«Избранное»: вкладки «Фильмы» и «Сериалы» - на телефоне и телевизоре.\nПлеер: надпись «Это устройство не играет 2160p» больше не появляется, если 2160p и не выбирали.\nПриложение стало меньше: 9,5 МБ вместо 12,5.\nМелкие исправления в плеере, памяти и настройках сайтов.",
-  "what_en": "Picture-in-picture: \"back 10 seconds\", pause and \"forward 10 seconds\" buttons - on the phone and on TV.\nFavorites: \"Movies\" and \"Series\" tabs - on the phone and on TV.\nPlayer: the \"This device can't play 2160p\" message no longer appears when 2160p wasn't chosen.\nThe app is smaller: 9.5 MB instead of 12.5.\nSmall fixes in the player, memory use and site settings.",
-  "apk": "https://github.com/gamahacka/filmmov/releases/download/v3.9-164/filmmov.apk",
-  "sha256": "49f07e67d62cfb6412dc741e943b4d4b9fc2e13d314ef00906b92da6aa8a918e",
+  "what": "Окошко «картинка в картинке»: крестик (на телевизоре «Закрыть») закрывает плеер целиком, звук в фоне не остаётся, место в фильме запоминается.",
+  "what_en": "Picture-in-picture: the X button (\"Close\" on TV) now closes the player completely, no sound keeps playing in the background, and your place in the movie is saved.",
+  "apk": "https://github.com/gamahacka/filmmov/releases/download/v3.9-165/filmmov.apk",
+  "sha256": "7ce1d0bc46ae4955427bd883a6da259e186aa6b763297f085056770561e3ed7d",
   "hosts": {
     "kinovod": "https://kinovod.pro",
     "gemovie": "https://ge.movie",
@@ -17,7 +17,7 @@
     "https://film-mov.pages.dev/latest.json",
     "https://t.me/s/filmmov_app/21"
   ],
-  "at": 1793971128,
-  "signed": "{\"code\":164,\"name\":\"3.9\",\"what\":\"Окошко «картинка в картинке»: кнопки «назад на 10 секунд», пауза и «вперёд на 10 секунд» - на телефоне и телевизоре.\\n«Избранное»: вкладки «Фильмы» и «Сериалы» - на телефоне и телевизоре.\\nПлеер: надпись «Это устройство не играет 2160p» больше не появляется, если 2160p и не выбирали.\\nПриложение стало меньше: 9,5 МБ вместо 12,5.\\nМелкие исправления в плеере, памяти и настройках сайтов.\",\"what_en\":\"Picture-in-picture: \\\"back 10 seconds\\\", pause and \\\"forward 10 seconds\\\" buttons - on the phone and on TV.\\nFavorites: \\\"Movies\\\" and \\\"Series\\\" tabs - on the phone and on TV.\\nPlayer: the \\\"This device can't play 2160p\\\" message no longer appears when 2160p wasn't chosen.\\nThe app is smaller: 9.5 MB instead of 12.5.\\nSmall fixes in the player, memory use and site settings.\",\"apk\":\"https://github.com/gamahacka/filmmov/releases/download/v3.9-164/filmmov.apk\",\"sha256\":\"49f07e67d62cfb6412dc741e943b4d4b9fc2e13d314ef00906b92da6aa8a918e\",\"hosts\":{\"kinovod\":\"https://kinovod.pro\",\"gemovie\":\"https://ge.movie\",\"rezka\":\"https://rezka.ag\",\"filmix\":\"http://filmixapp.cyou/api/v2\",\"jacred\":\"https://jr.maxvol.pro https://jac-red.ru\"},\"mirrors\":[\"https://raw.githubusercontent.com/gamahacka/filmmov/main/latest.json\",\"https://film-mov.pages.dev/latest.json\",\"https://t.me/s/filmmov_app/21\"],\"at\":1793971128}",
-  "sig": "MEQCIAgLhwhTv8TbEW+iWwu0iKlCWbUpKctnVASiZDGXQiiHAiBdVp2p6I7ifTOoVvgpQb0F2cl2gw37MIfWdiWZJv5TYg=="
+  "at": 1793988159,
+  "signed": "{\"code\":165,\"name\":\"3.9\",\"what\":\"Окошко «картинка в картинке»: крестик (на телевизоре «Закрыть») закрывает плеер целиком, звук в фоне не остаётся, место в фильме запоминается.\",\"what_en\":\"Picture-in-picture: the X button (\\\"Close\\\" on TV) now closes the player completely, no sound keeps playing in the background, and your place in the movie is saved.\",\"apk\":\"https://github.com/gamahacka/filmmov/releases/download/v3.9-165/filmmov.apk\",\"sha256\":\"7ce1d0bc46ae4955427bd883a6da259e186aa6b763297f085056770561e3ed7d\",\"hosts\":{\"kinovod\":\"https://kinovod.pro\",\"gemovie\":\"https://ge.movie\",\"rezka\":\"https://rezka.ag\",\"filmix\":\"http://filmixapp.cyou/api/v2\",\"jacred\":\"https://jr.maxvol.pro https://jac-red.ru\"},\"mirrors\":[\"https://raw.githubusercontent.com/gamahacka/filmmov/main/latest.json\",\"https://film-mov.pages.dev/latest.json\",\"https://t.me/s/filmmov_app/21\"],\"at\":1793988159}",
+  "sig": "MEUCIAspflROG2rv98DC4in0xl15Md3ZzZlZn3UGwYqbyWN4AiEAtIwfhIt2sWY+VTPuUQIal6GQG4tr5ukLF9T+o0eVIuE="
 }
