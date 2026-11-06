@@ -1,10 +1,10 @@
 {
-  "code": 165,
+  "code": 166,
   "name": "3.9",
-  "what": "Окошко «картинка в картинке»: крестик (на телевизоре «Закрыть») закрывает плеер целиком, звук в фоне не остаётся, место в фильме запоминается.",
-  "what_en": "Picture-in-picture: the X button (\"Close\" on TV) now closes the player completely, no sound keeps playing in the background, and your place in the movie is saved.",
-  "apk": "https://github.com/gamahacka/filmmov/releases/download/v3.9-165/filmmov.apk",
-  "sha256": "7ce1d0bc46ae4955427bd883a6da259e186aa6b763297f085056770561e3ed7d",
+  "what": "Карточка фильма: нажатие на актёра или режиссёра с первого раза открывает его фильмы, а не общий список - когда карточка с одного сайта, а каталог стоял на другом.",
+  "what_en": "Movie page: tapping an actor or director now opens their films on the first try instead of a generic list - when the page is from one site and the catalog was on another.",
+  "apk": "https://github.com/gamahacka/filmmov/releases/download/v3.9-166/filmmov.apk",
+  "sha256": "99b8b0586e6a09e1f121e6fdf6804823ef4a2bd3a3848cae829717109d4f69b4",
   "hosts": {
     "kinovod": "https://kinovod.pro",
     "gemovie": "https://ge.movie",
@@ -17,7 +17,7 @@
     "https://film-mov.pages.dev/latest.json",
     "https://t.me/s/filmmov_app/21"
   ],
-  "at": 1793988159,
-  "signed": "{\"code\":165,\"name\":\"3.9\",\"what\":\"Окошко «картинка в картинке»: крестик (на телевизоре «Закрыть») закрывает плеер целиком, звук в фоне не остаётся, место в фильме запоминается.\",\"what_en\":\"Picture-in-picture: the X button (\\\"Close\\\" on TV) now closes the player completely, no sound keeps playing in the background, and your place in the movie is saved.\",\"apk\":\"https://github.com/gamahacka/filmmov/releases/download/v3.9-165/filmmov.apk\",\"sha256\":\"7ce1d0bc46ae4955427bd883a6da259e186aa6b763297f085056770561e3ed7d\",\"hosts\":{\"kinovod\":\"https://kinovod.pro\",\"gemovie\":\"https://ge.movie\",\"rezka\":\"https://rezka.ag\",\"filmix\":\"http://filmixapp.cyou/api/v2\",\"jacred\":\"https://jr.maxvol.pro https://jac-red.ru\"},\"mirrors\":[\"https://raw.githubusercontent.com/gamahacka/filmmov/main/latest.json\",\"https://film-mov.pages.dev/latest.json\",\"https://t.me/s/filmmov_app/21\"],\"at\":1793988159}",
-  "sig": "MEUCIAspflROG2rv98DC4in0xl15Md3ZzZlZn3UGwYqbyWN4AiEAtIwfhIt2sWY+VTPuUQIal6GQG4tr5ukLF9T+o0eVIuE="
+  "at": 1793990313,
+  "signed": "{\"code\":166,\"name\":\"3.9\",\"what\":\"Карточка фильма: нажатие на актёра или режиссёра с первого раза открывает его фильмы, а не общий список - когда карточка с одного сайта, а каталог стоял на другом.\",\"what_en\":\"Movie page: tapping an actor or director now opens their films on the first try instead of a generic list - when the page is from one site and the catalog was on another.\",\"apk\":\"https://github.com/gamahacka/filmmov/releases/download/v3.9-166/filmmov.apk\",\"sha256\":\"99b8b0586e6a09e1f121e6fdf6804823ef4a2bd3a3848cae829717109d4f69b4\",\"hosts\":{\"kinovod\":\"https://kinovod.pro\",\"gemovie\":\"https://ge.movie\",\"rezka\":\"https://rezka.ag\",\"filmix\":\"http://filmixapp.cyou/api/v2\",\"jacred\":\"https://jr.maxvol.pro https://jac-red.ru\"},\"mirrors\":[\"https://raw.githubusercontent.com/gamahacka/filmmov/main/latest.json\",\"https://film-mov.pages.dev/latest.json\",\"https://t.me/s/filmmov_app/21\"],\"at\":1793990313}",
+  "sig": "MEQCIDlpqeFhGbNBWhrm0MVSGDC1FUBlMGJscJwdjMkjSX8zAiBRe3aJcBXMeRch6RSLn/oNP/3wlNvgNwv8aU3Q7RaAlQ=="
 }
